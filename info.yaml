@@ -26,7 +26,7 @@ project:
 pinout:
   # Inputs
   ui[0]: ""
-  ui[1]: ""
+  ui[1]: "AI inverter input"
   ui[2]: "vprohacks's inverter, input (slot 2)"
   ui[3]: "vprohacks_owner's inverter, input"
   ui[4]: ""
@@ -36,7 +36,7 @@ pinout:
 
   # Outputs
   uo[0]: ""
-  uo[1]: ""
+  uo[1]: "AI inverter output"
   uo[2]: "vprohacks's inverter, output (slot 2)"
   uo[3]: "vprohacks_owner's inverter, output"
   uo[4]: ""

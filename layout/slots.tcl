@@ -9,3 +9,4 @@
 
 slot 2 inv_vprohacks
 slot 3 inv_vprohacks_owner
+slot 0 inv_ai
