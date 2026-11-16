@@ -27,7 +27,7 @@ pinout:
   # Inputs
   ui[0]: ""
   ui[1]: ""
-  ui[2]: "vprohacks's inverter, input"
+  ui[2]: "vprohacks's inverter, input (slot 2)"
   ui[3]: ""
   ui[4]: ""
   ui[5]: ""
@@ -37,7 +37,7 @@ pinout:
   # Outputs
   uo[0]: ""
   uo[1]: ""
-  uo[2]: "vprohacks's inverter, output"
+  uo[2]: "vprohacks's inverter, output (slot 2)"
   uo[3]: ""
   uo[4]: ""
   uo[5]: ""
