@@ -8,3 +8,4 @@
 # describes the same two pins, ui[K] and uo[K], in info.yaml's pinout.
 
 slot 2 inv_vprohacks
+slot 3 inv_vprohacks_owner
