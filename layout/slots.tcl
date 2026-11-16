@@ -7,3 +7,4 @@
 # Keep the lines in slot order. Your pull request claims the slot here and
 # describes the same two pins, ui[K] and uo[K], in info.yaml's pinout.
 
+slot 3 inv_vprohacks_owner
